@@ -1,2 +1,2 @@
 n = int(input(""))
-print ("",len(str(abs(n))))
+print (len(str(abs(n))))
